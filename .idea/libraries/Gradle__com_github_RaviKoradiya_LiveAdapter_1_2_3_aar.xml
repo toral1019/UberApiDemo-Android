@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.RaviKoradiya:LiveAdapter:1.2.3@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/LiveAdapter-1.2.3.aar/7cf358ad87daf0c1da75b4da71a0d938/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/LiveAdapter-1.2.3.aar/7cf358ad87daf0c1da75b4da71a0d938/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/LiveAdapter-1.2.3.aar/7cf358ad87daf0c1da75b4da71a0d938/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
